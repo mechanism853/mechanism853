@@ -2,7 +2,10 @@
 
 ## General
 
-My name is [Matthew W. Miller](miller.2034@wright.edu).
+My name is Matthew W. Miller.
+I am intermittently reachable at `miller.2034@wright.edu`.
+You may also attempt to contact me on Discord, where my handle is
+`mechanism853`.
 
 As of Spring 2025, I am seeking to complete a Bachelor's Degree of
 Computer Engineering at
