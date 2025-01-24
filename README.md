@@ -33,8 +33,6 @@ Computer Engineering at
   - Still in the informal ideation stage. Not primarily a computer
     science project, but could be made to support a digital interface.
 
-## Trivia
-
 > This profile has been updated to conform to WSU's course CEG-2350
 > Lab 01.
 
